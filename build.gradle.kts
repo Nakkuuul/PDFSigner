@@ -7,7 +7,7 @@ group = "com.yourcompany"
 version = "1.0-SNAPSHOT"
 
 application {
-    mainClass.set("sapphirebroking.pdfsigner.MainKt")
+    mainClass.set("com.sapphirebroking.pdfsigner.AppKt")
 }
 
 repositories {
